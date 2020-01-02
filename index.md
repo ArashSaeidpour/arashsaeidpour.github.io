@@ -17,7 +17,7 @@ header:
 <sub> Welcome! I am a postdoc at the University of Georgia's [Center for the Ecology of Infectious Diseases](http://ceid.uga.edu/) working under supervision of [Professor Pejman Rohani](http://rohanilab.ecology.uga.edu/). My research is broadly focused on [Catastrophic Modeling](https://en.wikipedia.org/wiki/Catastrophe_modeling). Currently I use a combination of mathematical models and machine-learning algorithms to understand spatio-temporal transmission dynamics of reemerging childhood diseases. I got my PhD in Engineering from University of Georgia's College of Engineering in 2017. During my PhD, I became interested in machine learning and began to study it intensively on my own. <sub>
 
 
-# Projects
+# Select Projects
 
 #### [Implementation of word2vec][2]
 
