@@ -6,9 +6,13 @@ author_profile: true
 title: "About"
 header:
   image: /assets/images/header_image.jpg
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-155267220-1"
+    anonymize_ip: false # default
 #toc: true
 
-#excerpt:
 
 
 #last_modified_at:
