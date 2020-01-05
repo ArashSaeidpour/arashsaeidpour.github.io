@@ -110,7 +110,7 @@ analytics:
 
 ---
 
-# Talks/Presentations
+# Presentations
 
 <sub> - Oral Presentation (2018): "Leveraging census data to unlock insights from changing dynamics of pertussis in London ", *Joint MIDAS CDC meeting*, Emory University, Atlanta, Georgia. <sub>
 
