@@ -18,10 +18,13 @@ analytics:
 #last_modified_at:
 #toc: true
 ---
-<sub> Welcome! I am a postdoc at the University of Georgia's [Center for the Ecology of Infectious Diseases](http://ceid.uga.edu/) working under supervision of [Professor Pejman Rohani](http://rohanilab.ecology.uga.edu/). My research is broadly focused on [Catastrophic Modeling](https://en.wikipedia.org/wiki/Catastrophe_modeling). Currently I use a combination of mathematical models and machine-learning algorithms for forecasting reemergence of infectious diseases prior to large scale outbreaks. I got my PhD in Engineering from University of Georgia's College of Engineering in 2017. During my PhD, I became interested in machine learning and began to study it intensively on my own. <sub>
+<sub> Hello World! I am a postdoc at the University of Georgia's [Center for the Ecology of Infectious Diseases](http://ceid.uga.edu/) working under supervision of [Professor Pejman Rohani](http://rohanilab.ecology.uga.edu/). My research is broadly focused on [Catastrophic Modeling](https://en.wikipedia.org/wiki/Catastrophe_modeling). Currently I use a combination of mathematical models and machine-learning algorithms for forecasting reemergence of infectious diseases prior to large scale outbreaks. I got my PhD in Engineering from University of Georgia's College of Engineering in 2017. During my PhD, I became interested in machine learning and began to study it intensively on my own. <sub>
 
 
 # Select Projects
+
+
+
 
 #### [Implementation of word2vec][2]
 
@@ -32,6 +35,17 @@ analytics:
 [2]:  https://github.com/ArashSaeidpour/word2vec/blob/master/Implementation%20of%20word2vec.ipynb
    "IPython notebook"
 
+
+#### [Hierarchical Clustering of Odum School of Ecology Faculty based on their publications][102]
+
+[![homepage][101]{:height="30%" width="30%" style="display: block; margin: 0 auto" }][2]
+
+
+[101]:  /assets/images/dendogram.png
+[102]:  https://github.com/ArashSaeidpour/Hierarchical-Clustering-of-Odum-School-of-Ecology-Faculty-based-on-their-publications/blob/master/Hierarchical%20clustering.ipynb
+  "IPython notebook"
+
+
 #### [Neural-network based dependency parser][4]
 
 [![homepage][3]{:height="80%" width="80%" style="display: block; margin: 0 auto" }][4]
@@ -39,6 +53,16 @@ analytics:
 [3]:  /assets/images/nn_parser.png
 [4]:  https://github.com/ArashSaeidpour/NN-based-dependency-parser/blob/master/NN-dependency%20parser.ipynb
 "IPython notebook"
+
+
+#### [Odum School of Ecology Coauthorship Graph][104]
+
+[![homepage][103]{:height="30%" width="30%" style="display: block; margin: 0 auto" }][2]
+
+
+[103]:  /assets/images/coauthorship_graph.png
+[104]:  https://github.com/ArashSaeidpour/Hierarchical-Clustering-of-Odum-School-of-Ecology-Faculty-based-on-their-publications/blob/master/Coauthorship%20graph.ipynb
+  "IPython notebook"
 
 
 #### [Attention-based neural machine translation][6]
@@ -83,6 +107,46 @@ analytics:
 #### [Fragility analysis of coastal bridges susceptible to hurricanes incorporating uncertainties in extreme wave parameters by means of wave spectra and enhancement of vulnerability assessment methodologies][14]
 <sub> Arash Saeidpour <br>
 *PhD diss., University of Georgia, 2017* <sub>
+
+---
+
+# Talks/Presentations
+
+<sub> - Oral Presentation (2018): "Leveraging census data to unlock insights from changing dynamics of pertussis in London ", *Joint MIDAS CDC meeting*, Emory University, Atlanta, Georgia. <sub>
+
+<sub> - Poster Presentation (2019): "The return’s anatomy: dissection of pertussis resurgence in London", *EEID 2019*, Princeton University, Princeton, New Jersey. \[[Poster](https://docs.google.com/presentation/d/1zfcVHL_W03fepaAiSvXAb_FlHj55GxsHradAE83utzQ/edit?usp=sharing)\]<sub>
+
+<sub> - Oral Presentation (2016): "Multi-Hazard Resilient and Sustainable (or MRS) Bridges – Stronger, Taller, Wider,Smarter? ", *EMI/PMC 2016*, Vanderbilt University, Nashville, Tennessee. <sub>
+
+<sub> - Poster Presentation (2016): "Fragility metamodels for vulnerability assessment of coastal bridges under hurricane hazard", *GDOT/GTI 4th Annual Transportation Research Expo*, Atlanta, Georgia. <sub>
+
+<sub> - Poster Presentation (2015): "Hurricane Risk Assessment for GA Coastal Bridges ", *GDOT/GTI 3rd Annual Transportation Research Expo*, Atlanta, Georgia. <sub>
+
+---
+# MOOCS/Certificates
+
+<sub> -  Machine Learning by Stanford University on Coursera \[[Certificate][201]\]
+
+<sub> -  Neural Networks and Deep Learning by deeplearning.ai on Coursera \[[Certificate][202]\] <sub>
+
+<sub> -  Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization by deeplearning.ai on Coursera \[[Certificate][203]\] <sub>
+
+<sub> -  Structuring Machine Learning Projects by deeplearning.ai on Coursera \[[Certificate][204]\] <sub>
+
+<sub> -  Convolutional Neural Networks by deeplearning.ai on Coursera \[[Certificate][205]\] <sub>
+
+<sub> -  Sequence Models by deeplearning.ai on Coursera \[[Certificate][206]\] <sub>
+
+<sub> -  Natural Language Processing with Deep Learning (Stanford CS224N)  <sub>
+
+[201]: https://www.coursera.org/account/accomplishments/certificate/CAT2Q4MM8PSK
+[202]: https://www.coursera.org/account/accomplishments/certificate/EVUVCJLZGWGA
+[203]: https://www.coursera.org/account/accomplishments/certificate/PG6L3V5ZELWS
+[204]: https://www.coursera.org/account/accomplishments/certificate/ZK5JR7YH3J53
+[205]: https://www.coursera.org/account/accomplishments/certificate/NNY8NPC66MVE
+[206]: https://www.coursera.org/account/accomplishments/certificate/UVAM8PW74ASN
+
+
 
 
 
