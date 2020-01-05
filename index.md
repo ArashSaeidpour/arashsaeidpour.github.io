@@ -38,7 +38,7 @@ analytics:
 
 #### [Hierarchical Clustering of Odum School of Ecology Faculty based on their publications][102]
 
-[![homepage][101]{:height="30%" width="30%" style="display: block; margin: 0 auto" }][2]
+[![homepage][101]{:height="30%" width="30%" style="display: block; margin: 0 auto" }][102]
 
 
 [101]:  /assets/images/dendogram.png
@@ -57,7 +57,7 @@ analytics:
 
 #### [Odum School of Ecology Coauthorship Graph][104]
 
-[![homepage][103]{:height="30%" width="30%" style="display: block; margin: 0 auto" }][2]
+[![homepage][103]{:height="30%" width="30%" style="display: block; margin: 0 auto" }][104]
 
 
 [103]:  /assets/images/coauthorship_graph.png
