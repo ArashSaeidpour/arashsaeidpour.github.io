@@ -141,6 +141,14 @@ analytics:
 
 <sub> -  Natural Language Processing with Deep Learning (Stanford CS224N)  <sub>
 
+
+
+---
+
+# CV
+
+Here is my [CV](/assets/resume/CV_Arash_saeidpour.pdf) (usually outdated!)
+
 [201]: https://www.coursera.org/account/accomplishments/certificate/CAT2Q4MM8PSK
 [202]: https://www.coursera.org/account/accomplishments/certificate/EVUVCJLZGWGA
 [203]: https://www.coursera.org/account/accomplishments/certificate/PG6L3V5ZELWS
