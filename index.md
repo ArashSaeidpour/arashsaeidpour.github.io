@@ -112,15 +112,17 @@ analytics:
 
 # Presentations
 
+<sub> - Poster Presentation (2019): "The return’s anatomy: dissection of pertussis resurgence in London", *EEID 2019*, Princeton University, Princeton, New Jersey. \[[Poster](https://docs.google.com/presentation/d/1zfcVHL_W03fepaAiSvXAb_FlHj55GxsHradAE83utzQ/edit?usp=sharing)\]<sub>
+
+
 <sub> - Oral Presentation (2018): "Leveraging census data to unlock insights from changing dynamics of pertussis in London ", *Joint MIDAS CDC meeting*, Emory University, Atlanta, Georgia. <sub>
 
-<sub> - Poster Presentation (2019): "The return’s anatomy: dissection of pertussis resurgence in London", *EEID 2019*, Princeton University, Princeton, New Jersey. \[[Poster](https://docs.google.com/presentation/d/1zfcVHL_W03fepaAiSvXAb_FlHj55GxsHradAE83utzQ/edit?usp=sharing)\]<sub>
 
 <sub> - Oral Presentation (2016): "Multi-Hazard Resilient and Sustainable (or MRS) Bridges – Stronger, Taller, Wider,Smarter? ", *EMI/PMC 2016*, Vanderbilt University, Nashville, Tennessee. <sub>
 
 <sub> - Poster Presentation (2016): "Fragility metamodels for vulnerability assessment of coastal bridges under hurricane hazard", *GDOT/GTI 4th Annual Transportation Research Expo*, Atlanta, Georgia. <sub>
 
-<sub> - Poster Presentation (2015): "Hurricane Risk Assessment for GA Coastal Bridges ", *GDOT/GTI 3rd Annual Transportation Research Expo*, Atlanta, Georgia. <sub>
+<sub> - Poster Presentation (2015): "Hurricane Risk Assessment for Georgia Coastal Bridges ", *GDOT/GTI 3rd Annual Transportation Research Expo*, Atlanta, Georgia. <sub>
 
 ---
 # MOOCS/Certificates
