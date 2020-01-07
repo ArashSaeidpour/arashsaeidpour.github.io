@@ -26,10 +26,16 @@ analytics:
 
 
 
-#### [Hierarchical Clustering of Odum School of Ecology Faculty based on their publications][102]
+## [Hierarchical Clustering of Odum School of Ecology Faculty based on their publications][102]
+
+<sub> This is part I of the project that I did to help strategic planing committee of the Odum School of Ecology to develop long-term and short-term hiring plans based on department's current research strengths and future aspirations. I was tasked to cluster department's faculty based on their publications. In this notebook, I have described how I used Ward's method for hierarchical clustering of faculty by their publications.<sub>
+
+
 
 [![homepage][101]{:height="30%" width="30%" style="display: block; margin: 0 auto" }][102]
 
+
+<sub> Tags: NLP, Python, Unsupervised Learning, TF-IDF, Ward's method, Dendrogram <sub>
 
 [101]:  /assets/images/dendogram.png
 [102]:  https://github.com/ArashSaeidpour/Hierarchical-Clustering-of-Odum-School-of-Ecology-Faculty-based-on-their-publications/blob/master/Hierarchical%20clustering.ipynb
@@ -37,20 +43,36 @@ analytics:
 
 
 
-#### [Implementation of word2vec][2]
+## [Implementation of Skip-gram Word2vec on Stanford Sentiment Treebank (SST) dataset][2]
+
+<sub> Skip-gram is an efficient method for learning high-quality vector representations of words from large amounts of unstructured text data introduced by Google researchers [[1][301],[2][302]]. In this notebook, I have my implementation implementation of Skip-gram model via "Negative Sampling". Scaffolding of the code is taken from [Stanford's CS224n course][303] materials.<sub>
+
+
 
 [![homepage][1]{:height="30%" width="30%" style="display: block; margin: 0 auto" }][2]
 
+
+<sub> Tags: NLP, Python, Word embedding, Skip-gram, Word2vec, Negative Sampling <sub>
 
 [1]:  /assets/images/bag_of_words.jpg
 [2]:  https://github.com/ArashSaeidpour/word2vec/blob/master/Implementation%20of%20word2vec.ipynb
  "IPython notebook"
 
+ [301]: https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
+ [302]: https://arxiv.org/abs/1301.3781
+ [303]: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/
 
 
-#### [Odum School of Ecology Coauthorship Graph][104]
+
+## [Odum School of Ecology Coauthorship Graph][104]
+
+<sub> This is part II of the project that I did to help strategic planing committee of the Odum School of Ecology to develop long-term and short-term hiring plans based on department's current research strengths and future aspirations. I was tasked to cluster department's faculty based on their publications. In [part I][102] of this project I did hierarchical analysis to group faculty into distinct clusters representing their sub-field of research. In this notebook, I will be describing how I made a "Coauthorship graph" to demonstrate research collaboration among faculty of the department.<sub>
+
 
 [![homepage][103]{:height="30%" width="30%" style="display: block; margin: 0 auto" }][104]
+
+
+<sub> Tags: NLP, Python, Unsupervised Learning, TF-IDF, Network analysis, PCA, Multidimensional Scaling  <sub>
 
 
 [103]:  /assets/images/coauthorship_graph.png
@@ -59,7 +81,9 @@ analytics:
 
 
 
-#### [Neural-network based dependency parser][4]
+## [Neural-network based dependency parser][4]
+
+<sub> In this notebook I will describe my implementation of a neural-network based dependency parser via arc-standard system for transitions in PyTorch. A dependency parser examines the grammatical structure of a sentence, finding relationships between head words, and words which modify those heads. Scaffolding of the code is taken from [Stanford's CS224n course][303] materials.<sub>
 
 [![homepage][3]{:height="80%" width="80%" style="display: block; margin: 0 auto" }][4]
 
@@ -67,20 +91,29 @@ analytics:
 [4]:  https://github.com/ArashSaeidpour/NN-based-dependency-parser/blob/master/NN-dependency%20parser.ipynb
 "IPython notebook"
 
+<sub> Tags: NLP, Python, Dependency parsing, Arc-standard, PyTorch <sub>
 
 
+## [Attention-based neural machine translation][6]
 
-#### [Attention-based neural machine translation][6]
+<sub> I have presented presented my implementation of a Attention-based LSTM model for translation from spanish to english in PyTorch. Scaffolding of the code is taken from [Stanford's CS224n course][303] materials.  <sub>
 
 [![homepage][5]{:height="50%" width="50%" style="display: block; margin: 0 auto" }][6]
 
 [5]:  /assets/images/attention.png
 [6]:  https://github.com/ArashSaeidpour/Attention-based-NMT/blob/master/Attention-based%20NMT.ipynb "IPython notebook"
 
+<sub> Tags: NLP, Python, NMT, Attention, LSTM, PyTorch <sub>
 
-#### [Sub-word modeling and convolutional networks][8]
+## [Sub-word modeling and convolutional networks][8]
+
+<sub> In this notebook I have described my implementation of a hybrid NMT system which takes advantage of both word-level and character-level embeddings. The advantage of this model to regular word-embedding based models is that whenever the word-level decoder fails to produce a token, we run our character-based decoder to generate the target word character by character. Scaffolding of the code is taken from [Stanford's CS224n course][303] materials.<sub>
+
+
 
 [![homepage][7]{:height="70%" width="70%" style="display: block; margin: 0 auto" }][8]
+
+<sub> Tags: NLP, Python, NMT, CNN, Character-based embedding, PyTorch <sub>
 
 [7]:  /assets/images/character_cnn.png
 [8]:  https://github.com/ArashSaeidpour/Sub-word-modeling-and-convolutional-networks/blob/master/Sub-word%20modeling%20and%20convolutional%20networks.ipynb
