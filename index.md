@@ -18,22 +18,12 @@ analytics:
 #last_modified_at:
 #toc: true
 ---
-<sub> Hello World! I am a postdoc at the University of Georgia's [Center for the Ecology of Infectious Diseases](http://ceid.uga.edu/) working under supervision of [Professor Pejman Rohani](http://rohanilab.ecology.uga.edu/). My research is focused on application of  machine learning  and deep learning for  the detection and quantification of human-induced and natural disasters. Currently I use a combination of mathematical models and machine-learning algorithms for forecasting reemergence of infectious diseases prior to large scale outbreaks. I got my PhD in Engineering from University of Georgia's College of Engineering in 2017. During my PhD, I became interested in machine learning and began to study it intensively on my own. <sub>
+<sub> Hello World! I am a postdoc at the University of Georgia's [Center for the Ecology of Infectious Diseases](http://ceid.uga.edu/) working under supervision of [Professor Pejman Rohani](http://rohanilab.ecology.uga.edu/). My research is focused on application of  machine learning  and deep learning for  the detection of human-induced and natural catastrophes and disasters prevention and response. Currently I use a combination of mathematical models and machine-learning algorithms for forecasting reemergence of infectious diseases prior to large scale outbreaks. I got my PhD in Engineering from University of Georgia's College of Engineering in 2017. During my PhD, I became interested in machine learning and began to study it intensively on my own. <sub>
 
 
 # Select Projects
 
 
-
-
-#### [Implementation of word2vec][2]
-
-[![homepage][1]{:height="30%" width="30%" style="display: block; margin: 0 auto" }][2]
-
-
-[1]:  /assets/images/bag_of_words.jpg
-[2]:  https://github.com/ArashSaeidpour/word2vec/blob/master/Implementation%20of%20word2vec.ipynb
-   "IPython notebook"
 
 
 #### [Hierarchical Clustering of Odum School of Ecology Faculty based on their publications][102]
@@ -46,13 +36,16 @@ analytics:
   "IPython notebook"
 
 
-#### [Neural-network based dependency parser][4]
 
-[![homepage][3]{:height="80%" width="80%" style="display: block; margin: 0 auto" }][4]
+#### [Implementation of word2vec][2]
 
-[3]:  /assets/images/nn_parser.png
-[4]:  https://github.com/ArashSaeidpour/NN-based-dependency-parser/blob/master/NN-dependency%20parser.ipynb
-"IPython notebook"
+[![homepage][1]{:height="30%" width="30%" style="display: block; margin: 0 auto" }][2]
+
+
+[1]:  /assets/images/bag_of_words.jpg
+[2]:  https://github.com/ArashSaeidpour/word2vec/blob/master/Implementation%20of%20word2vec.ipynb
+ "IPython notebook"
+
 
 
 #### [Odum School of Ecology Coauthorship Graph][104]
@@ -62,7 +55,19 @@ analytics:
 
 [103]:  /assets/images/coauthorship_graph.png
 [104]:  https://github.com/ArashSaeidpour/Hierarchical-Clustering-of-Odum-School-of-Ecology-Faculty-based-on-their-publications/blob/master/Coauthorship%20graph.ipynb
-  "IPython notebook"
+ "IPython notebook"
+
+
+
+#### [Neural-network based dependency parser][4]
+
+[![homepage][3]{:height="80%" width="80%" style="display: block; margin: 0 auto" }][4]
+
+[3]:  /assets/images/nn_parser.png
+[4]:  https://github.com/ArashSaeidpour/NN-based-dependency-parser/blob/master/NN-dependency%20parser.ipynb
+"IPython notebook"
+
+
 
 
 #### [Attention-based neural machine translation][6]
