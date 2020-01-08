@@ -66,7 +66,7 @@ analytics:
 
 ## [Odum School of Ecology Coauthorship Graph][104]
 
-<sub> This is part II of the project that I did to help strategic planing committee of the Odum School of Ecology to develop long-term and short-term hiring plans based on department's current research strengths and future aspirations. I was tasked to cluster department's faculty based on their publications. In [part I][102] of this project I did hierarchical analysis to group faculty into distinct clusters representing their sub-field of research. In this notebook, I will be describing how I made a "Coauthorship graph" to demonstrate research collaboration among faculty of the department.<sub>
+<sub> This is part 2 of the project that I did to help strategic planing committee of the Odum School of Ecology develop long-term and short-term hiring plans based on department's current research strengths and future aspirations. I was tasked to cluster department's faculty based on their publications. In [part I][102] of this project I did hierarchical analysis to group faculty into distinct clusters representing their sub-field of research. In this notebook, I will be describing how I made a "Coauthorship graph" to demonstrate research collaboration among faculty of the department.<sub>
 
 
 [![homepage][103]{:height="30%" width="30%" style="display: block; margin: 0 auto" }][104]
@@ -96,7 +96,7 @@ analytics:
 
 ## [Attention-based neural machine translation][6]
 
-<sub> I have presented presented my implementation of a Attention-based LSTM model for translation from spanish to english in PyTorch. Scaffolding of the code is taken from [Stanford's CS224n course][303] materials.  <sub>
+<sub> In this notebook I have presented my implementation of a Attention-based LSTM model for translation from spanish to english in PyTorch. Scaffolding of the code is taken from [Stanford's CS224n course][303] materials.  <sub>
 
 [![homepage][5]{:height="50%" width="50%" style="display: block; margin: 0 auto" }][6]
 
