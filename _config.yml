@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Arash Saeidpour"
   avatar           : "/assets/images/my_photo3.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Yet another data scientist!"
+  bio              : "A data scientist with domain expertise in risk analysis and catastrophe modeling coupled with a strong grounding in natural language processing."
   location         : "Athens, GA"
   email            : # "arashs@uga.edu"
   links:

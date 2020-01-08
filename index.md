@@ -1,11 +1,14 @@
 ---
 permalink: /
 layout: single
-classes: wide
+#classes: wide
 author_profile: true
-title: "About"
+title: "ArashSaeidpour.github.io"
+#excerpt: "ArashSaeidpour.github.io"
 header:
-  image: /assets/images/header_image.jpg
+  overlay_image: /assets/images/header_image.jpg
+
+
 analytics:
   provider: "google-gtag"
   google:
@@ -18,6 +21,7 @@ analytics:
 #last_modified_at:
 #toc: true
 ---
+# About
 <sub> Hello World! I am a postdoc at the University of Georgia's [Center for the Ecology of Infectious Diseases](http://ceid.uga.edu/) working under supervision of [Professor Pejman Rohani](http://rohanilab.ecology.uga.edu/). My research is focused on application of  machine learning  and deep learning for  the detection of human-induced and natural catastrophes and disasters prevention and response. Currently I use a combination of mathematical models and machine-learning algorithms for forecasting reemergence of infectious diseases prior to large scale outbreaks. I got my PhD in Engineering from University of Georgia's College of Engineering in 2017. During my PhD, I became interested in machine learning and began to study it intensively on my own. <sub>
 
 
