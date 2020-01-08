@@ -45,7 +45,7 @@ analytics:
 
 ## [Implementation of Skip-gram Word2vec on Stanford Sentiment Treebank (SST) dataset][2]
 
-<sub> Skip-gram is an efficient method for learning high-quality vector representations of words from large amounts of unstructured text data introduced by Google researchers [[1][301],[2][302]]. In this notebook, I have my implementation implementation of Skip-gram model via "Negative Sampling". Scaffolding of the code is taken from [Stanford's CS224n course][303] materials.<sub>
+<sub> Skip-gram is an efficient method for learning high-quality vector representations of words from large amounts of unstructured text data introduced by Google researchers [[1][301],[2][302]]. In this notebook, I have described my implementation of Skip-gram model via "Negative Sampling". Scaffolding of the code is taken from [Stanford's CS224n course][303] materials.<sub>
 
 
 
