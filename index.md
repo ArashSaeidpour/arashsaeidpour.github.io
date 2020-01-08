@@ -28,7 +28,7 @@ analytics:
 
 ## [Hierarchical Clustering of Odum School of Ecology Faculty based on their publications][102]
 
-<sub> This is part I of the project that I did to help strategic planing committee of the Odum School of Ecology to develop long-term and short-term hiring plans based on department's current research strengths and future aspirations. I was tasked to cluster department's faculty based on their publications. In this notebook, I have described how I used Ward's method for hierarchical clustering of faculty by their publications.<sub>
+<sub> This is part 1 of the project that I did to help strategic planing committee of the Odum School of Ecology develop long-term and short-term hiring plans based on department's current research strengths and future aspirations. I was tasked to cluster department's faculty based on their publications. In this notebook, I have described how I used Ward's method for hierarchical clustering of faculty by their publications.<sub>
 
 
 
