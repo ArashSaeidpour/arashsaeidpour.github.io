@@ -111,7 +111,6 @@ analytics:
 [7]:  /assets/images/character_cnn.png
 [8]:  https://github.com/ArashSaeidpour/Sub-word-modeling-and-convolutional-networks/blob/master/Sub-word%20modeling%20and%20convolutional%20networks.ipynb
  "IPython notebook"
----
 
 
 ## Publications
@@ -139,7 +138,6 @@ analytics:
 <sub> Arash Saeidpour <br>
 *PhD diss., University of Georgia, 2017* <sub>
 
----
 
 ## Presentations
 
@@ -155,7 +153,6 @@ analytics:
 
 <sub> - Poster Presentation (2015): "Hurricane Risk Assessment for Georgia Coastal Bridges ", *GDOT/GTI 3rd Annual Transportation Research Expo*, Atlanta, Georgia. <sub>
 
----
 ## MOOCS/Certificates
 
 <sub> -  Machine Learning by Stanford University on Coursera \[[Certificate][201]\]
