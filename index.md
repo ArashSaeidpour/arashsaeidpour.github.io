@@ -63,7 +63,7 @@ analytics:
 
 ### Odum School of Ecology Coauthorship Graph [[IPython Notebook][104]]
 
-![image-left][103]{:height="38%" width="38%" : style="float: left; margin: 0 auto; display: block" } <sub> This is part 2 of the project that I did to help strategic planing committee of the Odum School of Ecology develop long-term and short-term hiring plans based on department's current research strengths and future aspirations. I was tasked to cluster department's faculty based on their publications. In [part I][102] of this project I did hierarchical analysis to group faculty into distinct clusters representing their sub-field of research. In this notebook, I will be describing how I made a "Coauthorship graph" to demonstrate research collaboration among faculty of the department. <sub> <br>
+![image-left][103]{:height="38%" width="38%" : style="float: left; margin: 0 auto; display: block" } <sub> This is part 2 of the project that I did to help strategic planing committee of the Odum School of Ecology develop long-term and short-term hiring plans based on department's current research strengths and future aspirations. I was tasked to cluster department's faculty based on their publications. In [part I][102] of this project I did hierarchical analysis to group faculty into distinct clusters representing their sub-field of research. In this notebook, I will be describing how I made a "Coauthorship graph" to demonstrate research collaboration among faculty of the department. <sub> <br> <br> <br>
 
 <sub> Tags: NLP, Python, Unsupervised Learning, TF-IDF, Network analysis, PCA, Multidimensional Scaling  <sub>
 
