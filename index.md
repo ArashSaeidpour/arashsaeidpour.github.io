@@ -23,6 +23,8 @@ analytics:
 #toc: true
 ---
 
+# About
+
 <sub> Hello World! I am a postdoc at the University of Georgia's [Center for the Ecology of Infectious Diseases](http://ceid.uga.edu/) working under supervision of [Professor Pejman Rohani](http://rohanilab.ecology.uga.edu/). My research is focused on application of  machine learning  and deep learning for  the detection of human-induced and natural catastrophes and disasters prevention and response. Currently I use a combination of mathematical models and machine-learning algorithms for forecasting reemergence of infectious diseases prior to large scale outbreaks. I got my PhD in Engineering from University of Georgia's College of Engineering in 2017. During my PhD, I became interested in machine learning and began to study it intensively on my own. <sub>
 
 
@@ -31,7 +33,7 @@ analytics:
 
 ### Hierarchical Clustering of Odum School of Ecology Faculty based on their publications [[IPython Notebook][102]]<br>
 
-![image-left](/assets/images/dendogram.png){:height="30%" width="30%" : style="float: left; margin-left: auto; margin-right: auto"} <sub> This is part 1 of the project that I did to help strategic planing committee of the Odum School of Ecology develop long-term and short-term hiring plans based on department's current research strengths and future aspirations. I was tasked to cluster department's faculty based on their publications. In this notebook, I have described how I used Ward's method for hierarchical clustering of faculty by their publications. <sub> <br>
+![image-left](/assets/images/dendogram.png){:height="30%" width="30%" : style="float: left; margin-left: auto; margin-right: auto"} <sub> This is part 1 of the project that I did to help strategic planing committee of the Odum School of Ecology develop long-term and short-term hiring plans based on department's current research strengths and future aspirations. I was tasked to cluster department's faculty based on their publications. In this notebook, I have described how I used Ward's method for hierarchical clustering of faculty by their publications. <sub> <br> <br> <br>
 
 
 <sub> Tags: NLP, Python, Unsupervised Learning, TF-IDF, Ward's method, Dendrogram <sub>
