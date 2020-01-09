@@ -9,8 +9,8 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>ArashSaeidpour.github.io -</title>
-<meta name="description" content="">
+<!-- begin _includes/seo.html --><title></title>
+<meta name="description" content="ArashSaeidpour.github.io">
 
 
   <meta name="author" content="Arash Saeidpour">
@@ -19,9 +19,11 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="">
-<meta property="og:title" content="ArashSaeidpour.github.io">
+<meta property="og:title" content="">
 <meta property="og:url" content="http://localhost:4000/">
 
+
+  <meta property="og:description" content="ArashSaeidpour.github.io">
 
 
 
@@ -50,7 +52,7 @@
     "@context": "https://schema.org",
     
       "@type": "Person",
-      "name": null,
+      "name": "Arash Saeidpour",
       "url": "http://localhost:4000/"
     
   }
@@ -101,7 +103,7 @@
 
   </head>
 
-  <body class="layout--single">
+  <body class="layout--single wide">
     <nav class="skip-links">
   <h2 class="screen-reader-text">Skip links</h2>
   <ul>
@@ -153,22 +155,11 @@
 
 
 
-<div class="page__hero--overlay"
-  style=" background-image: url('/assets/images/header_image.jpg');"
+<div class="page__hero"
+  style=" "
 >
   
-    <div class="wrapper">
-      <h1 id="page-title" class="page__title" itemprop="headline">
-        
-          ArashSaeidpour.github.io
-
-        
-      </h1>
-      
-      
-      
-      
-    </div>
+    <img src="/assets/images/header_image.jpg" alt="" class="page__hero-image">
   
   
 </div>
@@ -228,6 +219,10 @@
         
           
             <li><a href="https://github.com/ArashSaeidpour" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> ArashSaeidpour</a></li>
+          
+        
+          
+            <li><a href="/assets/resume/CV_Arash_saeidpour.pdf" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV</a></li>
           
         
           
@@ -304,12 +299,17 @@
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="ArashSaeidpour.github.io">
     
+    <meta itemprop="description" content="ArashSaeidpour.github.io">
     
     
 
     <div class="page__inner-wrap">
+      
+        <header>
+          
+          
+        </header>
       
 
       <section class="page__content" itemprop="text">
@@ -319,31 +319,25 @@
 
 <h1 id="select-projects">Select Projects</h1>
 
-<h2 id="hierarchical-clustering-of-odum-school-of-ecology-faculty-based-on-their-publications"><a href="https://github.com/ArashSaeidpour/Hierarchical-Clustering-of-Odum-School-of-Ecology-Faculty-based-on-their-publications/blob/master/Hierarchical%20clustering.ipynb" title="IPython notebook">Hierarchical Clustering of Odum School of Ecology Faculty based on their publications</a></h2>
+<h3 id="hierarchical-clustering-of-odum-school-of-ecology-faculty-based-on-their-publications-ipython-notebook">Hierarchical Clustering of Odum School of Ecology Faculty based on their publications [<a href="https://github.com/ArashSaeidpour/Hierarchical-Clustering-of-Odum-School-of-Ecology-Faculty-based-on-their-publications/blob/master/Hierarchical%20clustering.ipynb" title="IPython notebook">IPython Notebook</a>]<br /></h3>
 
-<p><sub> This is part 1 of the project that I did to help strategic planing committee of the Odum School of Ecology develop long-term and short-term hiring plans based on department’s current research strengths and future aspirations. I was tasked to cluster department’s faculty based on their publications. In this notebook, I have described how I used Ward’s method for hierarchical clustering of faculty by their publications.<sub></sub></sub></p>
-
-<p><a href="https://github.com/ArashSaeidpour/Hierarchical-Clustering-of-Odum-School-of-Ecology-Faculty-based-on-their-publications/blob/master/Hierarchical%20clustering.ipynb" title="IPython notebook"><img src="/assets/images/dendogram.png" alt="homepage" height="30%" width="30%" style="display: block; margin: 0 auto" /></a></p>
+<p><img src="/assets/images/dendogram.png" alt="image-left" height="30%" width="30%" style="float: left; margin-left: auto; margin-right: auto" /> <sub> This is part 1 of the project that I did to help strategic planing committee of the Odum School of Ecology develop long-term and short-term hiring plans based on department’s current research strengths and future aspirations. I was tasked to cluster department’s faculty based on their publications. In this notebook, I have described how I used Ward’s method for hierarchical clustering of faculty by their publications. <sub> <br /></sub></sub></p>
 
 <p><sub> Tags: NLP, Python, Unsupervised Learning, TF-IDF, Ward’s method, Dendrogram <sub></sub></sub></p>
 
-<h2 id="implementation-of-skip-gram-word2vec-on-stanford-sentiment-treebank-sst-dataset"><a href="https://github.com/ArashSaeidpour/word2vec/blob/master/Implementation%20of%20word2vec.ipynb" title="IPython notebook">Implementation of Skip-gram Word2vec on Stanford Sentiment Treebank (SST) dataset</a></h2>
+<h3 id="implementation-of-skip-gram-word2vec-on-stanford-sentiment-treebank-sst-dataset-ipython-notebook">Implementation of Skip-gram Word2vec on Stanford Sentiment Treebank (SST) dataset [<a href="https://github.com/ArashSaeidpour/word2vec/blob/master/Implementation%20of%20word2vec.ipynb" title="IPython notebook">IPython Notebook</a>]</h3>
 
-<p><sub> Skip-gram is an efficient method for learning high-quality vector representations of words from large amounts of unstructured text data introduced by Google researchers [<a href="https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf">1</a>,<a href="https://arxiv.org/abs/1301.3781">2</a>]. In this notebook, I have described my implementation of Skip-gram model via “Negative Sampling”. Scaffolding of the code is taken from <a href="https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/">Stanford’s CS224n course</a> materials.<sub></sub></sub></p>
-
-<p><a href="https://github.com/ArashSaeidpour/word2vec/blob/master/Implementation%20of%20word2vec.ipynb" title="IPython notebook"><img src="/assets/images/bag_of_words.jpg" alt="homepage" height="30%" width="30%" style="display: block; margin: 0 auto" /></a></p>
+<p><img src="/assets/images/bag_of_words.jpg" alt="image-right" height="20%" width="20%" style="float: right" /> <sub> Skip-gram is an efficient method for learning high-quality vector representations of words from large amounts of unstructured text data introduced by Google researchers [<a href="https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf">1</a>,<a href="https://arxiv.org/abs/1301.3781">2</a>]. In this notebook, I have described my implementation of Skip-gram model via “Negative Sampling”. Scaffolding of the code is taken from <a href="https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/">Stanford’s CS224n course</a> materials. <sub> <br /></sub></sub></p>
 
 <p><sub> Tags: NLP, Python, Word embedding, Skip-gram, Word2vec, Negative Sampling <sub></sub></sub></p>
 
-<h2 id="odum-school-of-ecology-coauthorship-graph"><a href="https://github.com/ArashSaeidpour/Hierarchical-Clustering-of-Odum-School-of-Ecology-Faculty-based-on-their-publications/blob/master/Coauthorship%20graph.ipynb" title="IPython notebook">Odum School of Ecology Coauthorship Graph</a></h2>
+<h3 id="odum-school-of-ecology-coauthorship-graph-ipython-notebook">Odum School of Ecology Coauthorship Graph [<a href="https://github.com/ArashSaeidpour/Hierarchical-Clustering-of-Odum-School-of-Ecology-Faculty-based-on-their-publications/blob/master/Coauthorship%20graph.ipynb" title="IPython notebook">IPython Notebook</a>]</h3>
 
-<p><sub> This is part 2 of the project that I did to help strategic planing committee of the Odum School of Ecology develop long-term and short-term hiring plans based on department’s current research strengths and future aspirations. I was tasked to cluster department’s faculty based on their publications. In <a href="https://github.com/ArashSaeidpour/Hierarchical-Clustering-of-Odum-School-of-Ecology-Faculty-based-on-their-publications/blob/master/Hierarchical%20clustering.ipynb" title="IPython notebook">part I</a> of this project I did hierarchical analysis to group faculty into distinct clusters representing their sub-field of research. In this notebook, I will be describing how I made a “Coauthorship graph” to demonstrate research collaboration among faculty of the department.<sub></sub></sub></p>
-
-<p><a href="https://github.com/ArashSaeidpour/Hierarchical-Clustering-of-Odum-School-of-Ecology-Faculty-based-on-their-publications/blob/master/Coauthorship%20graph.ipynb" title="IPython notebook"><img src="/assets/images/coauthorship_graph.png" alt="homepage" height="30%" width="30%" style="display: block; margin: 0 auto" /></a></p>
+<p><img src="/assets/images/coauthorship_graph.png" alt="image-left" height="38%" width="38%" style="float: left; margin: 0 auto; display: block" /> <sub> This is part 2 of the project that I did to help strategic planing committee of the Odum School of Ecology develop long-term and short-term hiring plans based on department’s current research strengths and future aspirations. I was tasked to cluster department’s faculty based on their publications. In <a href="https://github.com/ArashSaeidpour/Hierarchical-Clustering-of-Odum-School-of-Ecology-Faculty-based-on-their-publications/blob/master/Hierarchical%20clustering.ipynb" title="IPython notebook">part I</a> of this project I did hierarchical analysis to group faculty into distinct clusters representing their sub-field of research. In this notebook, I will be describing how I made a “Coauthorship graph” to demonstrate research collaboration among faculty of the department. <sub> <br /></sub></sub></p>
 
 <p><sub> Tags: NLP, Python, Unsupervised Learning, TF-IDF, Network analysis, PCA, Multidimensional Scaling  <sub></sub></sub></p>
 
-<h2 id="neural-network-based-dependency-parser"><a href="https://github.com/ArashSaeidpour/NN-based-dependency-parser/blob/master/NN-dependency%20parser.ipynb" title="IPython notebook">Neural-network based dependency parser</a></h2>
+<h3 id="neural-network-based-dependency-parser-ipython-notebook">Neural-network based dependency parser [<a href="https://github.com/ArashSaeidpour/NN-based-dependency-parser/blob/master/NN-dependency%20parser.ipynb" title="IPython notebook">IPython Notebook</a>]</h3>
 
 <p><sub> In this notebook I will describe my implementation of a neural-network based dependency parser via arc-standard system for transitions in PyTorch. A dependency parser examines the grammatical structure of a sentence, finding relationships between head words, and words which modify those heads. Scaffolding of the code is taken from <a href="https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/">Stanford’s CS224n course</a> materials.<sub></sub></sub></p>
 
@@ -351,7 +345,7 @@
 
 <p><sub> Tags: NLP, Python, Dependency parsing, Arc-standard, PyTorch <sub></sub></sub></p>
 
-<h2 id="attention-based-neural-machine-translation"><a href="https://github.com/ArashSaeidpour/Attention-based-NMT/blob/master/Attention-based%20NMT.ipynb" title="IPython notebook">Attention-based neural machine translation</a></h2>
+<h3 id="attention-based-neural-machine-translation-ipython-notebook">Attention-based neural machine translation [<a href="https://github.com/ArashSaeidpour/Attention-based-NMT/blob/master/Attention-based%20NMT.ipynb" title="IPython notebook">IPython Notebook</a>]</h3>
 
 <p><sub> In this notebook I have presented my implementation of a Attention-based LSTM model for translation from spanish to english in PyTorch. Scaffolding of the code is taken from <a href="https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/">Stanford’s CS224n course</a> materials.  <sub></sub></sub></p>
 
@@ -359,7 +353,7 @@
 
 <p><sub> Tags: NLP, Python, NMT, Attention, LSTM, PyTorch <sub></sub></sub></p>
 
-<h2 id="sub-word-modeling-and-convolutional-networks"><a href="https://github.com/ArashSaeidpour/Sub-word-modeling-and-convolutional-networks/blob/master/Sub-word%20modeling%20and%20convolutional%20networks.ipynb" title="IPython notebook">Sub-word modeling and convolutional networks</a></h2>
+<h3 id="sub-word-modeling-and-convolutional-networksipython-notebook">[Sub-word modeling and convolutional networks][<a href="https://github.com/ArashSaeidpour/Sub-word-modeling-and-convolutional-networks/blob/master/Sub-word%20modeling%20and%20convolutional%20networks.ipynb" title="IPython notebook">IPython Notebook</a>]</h3>
 
 <p><sub> In this notebook I have described my implementation of a hybrid NMT system which takes advantage of both word-level and character-level embeddings. The advantage of this model to regular word-embedding based models is that whenever the word-level decoder fails to produce a token, we run our character-based decoder to generate the target word character by character. Scaffolding of the code is taken from <a href="https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/">Stanford’s CS224n course</a> materials.<sub></sub></sub></p>
 
@@ -425,12 +419,6 @@
 
 <p><sub> -  Natural Language Processing with Deep Learning (Stanford CS224N)  <sub></sub></sub></p>
 
-<hr />
-
-<h1 id="cv">CV</h1>
-
-<p>Here is my <a href="/assets/resume/CV_Arash_saeidpour.pdf">CV</a> (usually outdated!)</p>
-
 
         
       </section>
@@ -490,7 +478,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2020 . Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2020 Arash Saeidpour. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>

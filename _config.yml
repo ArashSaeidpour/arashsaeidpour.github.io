@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : ##null #"Arash Saeidpour" # "Portfolio"
 title_separator          : #"-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : #"Arash Saeidpour"
-description              : #"An amazing website."
+name                     : "Arash Saeidpour"
+description              : # "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -122,6 +122,9 @@ author:
     - label: "ArashSaeidpour"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ArashSaeidpour"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/resume/CV_Arash_saeidpour.pdf"
 
 
 
