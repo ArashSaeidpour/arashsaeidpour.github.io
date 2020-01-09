@@ -3,7 +3,7 @@ permalink: /
 layout: single
 classes: wide
 author_profile: true
-#title: "ArashSaeidpour.github.io"
+title: ""
 excerpt: "ArashSaeidpour.github.io"
 header:
   image: /assets/images/header_image.jpg
