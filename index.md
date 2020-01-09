@@ -78,7 +78,7 @@ analytics:
 
  <sub> In this notebook I will describe my implementation of a neural-network based dependency parser via arc-standard system for transitions in PyTorch. A dependency parser examines the grammatical structure of a sentence, finding relationships between head words, and words which modify those heads. Scaffolding of the code is taken from [Stanford's CS224n course][303] materials.<sub>
 
-[![homepage][3]{:height="80%" width="80%" style="display: block; margin: 0 auto" }][4]
+![homepage][3]{:height="80%" width="80%" style="display: block; margin: 0 auto" }
 
 [3]:  /assets/images/nn_parser.png
 [4]:  https://github.com/ArashSaeidpour/NN-based-dependency-parser/blob/master/NN-dependency%20parser.ipynb
@@ -91,7 +91,7 @@ analytics:
 
 <sub> In this notebook I have presented my implementation of a Attention-based LSTM model for translation from spanish to english in PyTorch. Scaffolding of the code is taken from [Stanford's CS224n course][303] materials.  <sub>
 
-[![homepage][5]{:height="50%" width="50%" style="display: block; margin: 0 auto" }][6]
+![homepage][5]{:height="50%" width="50%" style="display: block; margin: 0 auto" }
 
 [5]:  /assets/images/attention.png
 [6]:  https://github.com/ArashSaeidpour/Attention-based-NMT/blob/master/Attention-based%20NMT.ipynb "IPython notebook"
@@ -104,7 +104,7 @@ analytics:
 
 
 
-[![homepage][7]{:height="70%" width="70%" style="display: block; margin: 0 auto" }][8]
+![homepage][7]{:height="70%" width="70%" style="display: block; margin: 0 auto" }
 
 <sub> Tags: NLP, Python, NMT, CNN, Character-based embedding, PyTorch <sub>
 
