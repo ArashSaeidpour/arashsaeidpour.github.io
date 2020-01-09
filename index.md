@@ -6,8 +6,8 @@ author_profile: true
 title: ""
 excerpt: "ArashSaeidpour.github.io"
 header:
-  image: /assets/images/header_image.jpg
-  #overlay_image: /assets/images/header_image.jpg
+  #image: /assets/images/header_image.jpg
+  overlay_image: /assets/images/header_image.jpg
 
 
 analytics:
